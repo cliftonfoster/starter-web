@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Please for this repositry and then issue Pull Requests for review.
+Please fork this repositry and then issue Pull Requests for review.
 
 
 ## Copyright
