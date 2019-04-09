@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Clifton Foster  clifton.foster@navajocountyaz.gov  @AZClif
 
 # THANKS
 
